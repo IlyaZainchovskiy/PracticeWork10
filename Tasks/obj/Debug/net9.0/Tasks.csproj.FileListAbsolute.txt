@@ -1,0 +1,15 @@
+C:\Users\Ilya\PracticeWork10\Tasks\bin\Debug\net9.0\Tasks.exe
+C:\Users\Ilya\PracticeWork10\Tasks\bin\Debug\net9.0\Tasks.deps.json
+C:\Users\Ilya\PracticeWork10\Tasks\bin\Debug\net9.0\Tasks.runtimeconfig.json
+C:\Users\Ilya\PracticeWork10\Tasks\bin\Debug\net9.0\Tasks.dll
+C:\Users\Ilya\PracticeWork10\Tasks\bin\Debug\net9.0\Tasks.pdb
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfo.cs
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.sourcelink.json
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.dll
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\refint\Tasks.dll
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.pdb
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\Tasks.genruntimeconfig.cache
+C:\Users\Ilya\PracticeWork10\Tasks\obj\Debug\net9.0\ref\Tasks.dll
